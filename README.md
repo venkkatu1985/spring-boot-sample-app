@@ -40,6 +40,6 @@ http://localhost:8080/swagger-ui.html
 
 ## License
 
-This software is licensed under the [BSD License][BSD]. For more information, read the file [LICENSE](LICENSE).
+This software  licensed under the [BSD License][BSD]. For more information, read the file [LICENSE](LICENSE).
 
 [BSD]: https://opensource.org/licenses/BSD-3-Clause
